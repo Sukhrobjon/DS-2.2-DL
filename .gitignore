@@ -164,6 +164,8 @@ dmypy.json
 
 # datasets
 Datsets/
+GTSRB/
+*.ppm
 *.csv
 *.zip
 # End of https://www.gitignore.io/api/macos,python,jupyternotebook
