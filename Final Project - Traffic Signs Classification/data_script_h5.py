@@ -38,7 +38,7 @@ def get_class(img_path):
 
 
 if __name__ == '__main__':
-    root_dir = 'GTSRB/Final_Training/Images/'
+    root_dir = 'data/Final_Training/Images/'
     imgs = []
     labels = []
 
@@ -70,7 +70,7 @@ if __name__ == '__main__':
     y_test = []
     i = 0
     for file_name, class_id in zip(list(test['Filename']), list(test['ClassId'])):
-        img_path = os.path.join('GTSRB/Final_Test/Images/', file_name)
+        img_path = os.path.join('data/Final_Test/Images/', file_name)
         X_test.append(preprocess_img(io.imread(img_path)))
         y_test.append(class_id+1)
 

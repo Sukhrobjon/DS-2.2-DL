@@ -169,4 +169,6 @@ data/
 *.ppm
 *.csv
 *.zip
+# ignore the h5 models
+*.h5
 # End of https://www.gitignore.io/api/macos,python,jupyternotebook
