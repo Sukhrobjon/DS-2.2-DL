@@ -171,4 +171,9 @@ data/
 *.zip
 # ignore the h5 models
 *.h5
+
+# ignore pickled data
+traffic_signs_pickled_data/
+*.p
+
 # End of https://www.gitignore.io/api/macos,python,jupyternotebook
