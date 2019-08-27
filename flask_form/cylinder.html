@@ -1,0 +1,8 @@
+{% from "_helper.html" import render_field %}
+<form method="POST" action="/form">
+    <dl>
+        {{ render_field(form.radius) }}
+        {{ render_field(form.height) }}
+    </dl>
+    <p><input type="submit" value="Calculate">
+</form>
