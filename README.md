@@ -33,16 +33,3 @@ Course at [Make School](https://github.com/Make-School-Courses)
 ### Tutorials
 - We'll be exploring Keras on the Cifar dataset
 - https://www.makeschool.com/academy/track/standalone/keras-for-image-classification-pfw/keras-and-neural-networks
-
-### Projects
-- You will choose your own dataset to clean, investigate, and make predictions or classification or clustering on it
-
-
-## Evaluation
-
-To pass this course you must meet the following requirements:
-
-- Pass all required tutorials and projects (see associated rubrics)
-- Pass the final summative assessment >=75%
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
