@@ -169,6 +169,9 @@ data/
 *.ppm
 *.csv
 *.zip
+*.jpg
+*.png
+
 # ignore the h5 models
 *.h5
 
